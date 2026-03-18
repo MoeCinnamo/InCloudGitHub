@@ -2316,8 +2316,43 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects:no-access",
       "scan_count": 1
+    },
+    "KellisLab/auto-meeting-minutes": {
+      "first_scan": "2026-03-18 04:26:47",
+      "last_scan": "2026-03-18 04:26:47",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "cnguetSR/AI-": {
+      "first_scan": "2026-03-18 04:26:50",
+      "last_scan": "2026-03-18 04:26:50",
+      "findings_count": 1,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "NCS23/training-analyzer": {
+      "first_scan": "2026-03-18 04:35:58",
+      "last_scan": "2026-03-18 04:35:58",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "rubyf2e/movie-helper-site": {
+      "first_scan": "2026-03-18 04:35:58",
+      "last_scan": "2026-03-18 04:35:58",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "Attoher/PBKK-Kel-4": {
+      "first_scan": "2026-03-18 04:35:58",
+      "last_scan": "2026-03-18 04:35:58",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
     }
   },
-  "total_scanned": 331,
-  "last_updated": "2026-03-17 04:35:10"
+  "total_scanned": 336,
+  "last_updated": "2026-03-18 04:35:58"
 }

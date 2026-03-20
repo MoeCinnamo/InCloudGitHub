@@ -2393,8 +2393,85 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
+    },
+    "TEN-framework/ten-framework": {
+      "first_scan": "2026-03-20 04:40:06",
+      "last_scan": "2026-03-20 04:40:06",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "NetSAIL-UCI/agua": {
+      "first_scan": "2026-03-20 04:40:06",
+      "last_scan": "2026-03-20 04:40:06",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "revenium/revenium-middleware-perplexity-python": {
+      "first_scan": "2026-03-20 04:40:06",
+      "last_scan": "2026-03-20 04:40:06",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "Hitesh-Potla/Auto-ml": {
+      "first_scan": "2026-03-20 04:40:06",
+      "last_scan": "2026-03-20 04:40:06",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "AnunaySinha04/TDS_Project": {
+      "first_scan": "2026-03-20 04:40:07",
+      "last_scan": "2026-03-20 04:40:07",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "otakuogeek/agente-bios": {
+      "first_scan": "2026-03-20 04:40:07",
+      "last_scan": "2026-03-20 04:40:07",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "robotmem/robotmem": {
+      "first_scan": "2026-03-20 04:40:07",
+      "last_scan": "2026-03-20 04:40:07",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "SmallBlackHole/opentelemetry-instrumentation-genai-examples": {
+      "first_scan": "2026-03-20 04:40:08",
+      "last_scan": "2026-03-20 04:40:08",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "ylwhxht/MSGNav": {
+      "first_scan": "2026-03-20 04:40:08",
+      "last_scan": "2026-03-20 04:40:08",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "tsinghua-fib-lab/DoT": {
+      "first_scan": "2026-03-20 04:40:08",
+      "last_scan": "2026-03-20 04:40:08",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "dimitritholen/gustav": {
+      "first_scan": "2026-03-20 04:40:09",
+      "last_scan": "2026-03-20 04:40:09",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
     }
   },
-  "total_scanned": 342,
-  "last_updated": "2026-03-19 04:33:03"
+  "total_scanned": 353,
+  "last_updated": "2026-03-20 04:40:09"
 }

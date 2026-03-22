@@ -2477,8 +2477,50 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
+    },
+    "ai-singhal/Image-Gen-Bias": {
+      "first_scan": "2026-03-22 04:22:35",
+      "last_scan": "2026-03-22 04:22:35",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "yongbuyabai/123": {
+      "first_scan": "2026-03-22 04:23:20",
+      "last_scan": "2026-03-22 04:23:20",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "pytenter/cpp": {
+      "first_scan": "2026-03-22 04:23:31",
+      "last_scan": "2026-03-22 04:23:31",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "SGRKAPOOR/Capstone-Project--Heartgaurd-and-Mindpal": {
+      "first_scan": "2026-03-22 04:43:10",
+      "last_scan": "2026-03-22 04:43:10",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "mindflowai/mindflow": {
+      "first_scan": "2026-03-22 04:43:10",
+      "last_scan": "2026-03-22 04:43:10",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "stdapi-ai/stdapi.ai": {
+      "first_scan": "2026-03-22 04:43:11",
+      "last_scan": "2026-03-22 04:43:11",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
     }
   },
-  "total_scanned": 354,
-  "last_updated": "2026-03-21 04:18:20"
+  "total_scanned": 360,
+  "last_updated": "2026-03-22 04:43:11"
 }

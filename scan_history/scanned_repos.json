@@ -4353,8 +4353,43 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects:no-access",
       "scan_count": 1
+    },
+    "MihirVasoya/Gen_AI": {
+      "first_scan": "2026-05-13 05:50:54",
+      "last_scan": "2026-05-13 05:50:54",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "elizaOS/eliza": {
+      "first_scan": "2026-05-13 06:03:18",
+      "last_scan": "2026-05-13 06:03:18",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "cbcoutinho/nextcloud-mcp-server": {
+      "first_scan": "2026-05-13 06:03:18",
+      "last_scan": "2026-05-13 06:03:18",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "patanet7/livetranslate": {
+      "first_scan": "2026-05-13 06:03:18",
+      "last_scan": "2026-05-13 06:03:18",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "itswl/WebhookWise": {
+      "first_scan": "2026-05-13 06:03:18",
+      "last_scan": "2026-05-13 06:03:18",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
     }
   },
-  "total_scanned": 622,
-  "last_updated": "2026-05-12 05:58:08"
+  "total_scanned": 627,
+  "last_updated": "2026-05-13 06:03:18"
 }

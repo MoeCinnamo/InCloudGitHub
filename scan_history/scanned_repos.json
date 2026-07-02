@@ -6425,8 +6425,358 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects:no-access",
       "scan_count": 1
+    },
+    "snowmanzhuang/yixueAIganhuo-PPT": {
+      "first_scan": "2026-07-02 06:02:40",
+      "last_scan": "2026-07-02 06:02:40",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "ASIFXS/final-project": {
+      "first_scan": "2026-07-02 06:44:04",
+      "last_scan": "2026-07-02 06:44:04",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "pippaye/openhands-software-agent-sdk": {
+      "first_scan": "2026-07-02 06:44:04",
+      "last_scan": "2026-07-02 06:44:04",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "mrdesautu/Multi_Agent_Knowledge_Graph_Builder": {
+      "first_scan": "2026-07-02 06:44:05",
+      "last_scan": "2026-07-02 06:44:05",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "flatplanet/PythonAI2025": {
+      "first_scan": "2026-07-02 06:44:05",
+      "last_scan": "2026-07-02 06:44:05",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "kennethwolters/litelm": {
+      "first_scan": "2026-07-02 06:44:05",
+      "last_scan": "2026-07-02 06:44:05",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "laijiewo/auto_tool_for_text_to_prompt_to_image": {
+      "first_scan": "2026-07-02 06:44:05",
+      "last_scan": "2026-07-02 06:44:05",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "Kizai/Resume-Pilot": {
+      "first_scan": "2026-07-02 06:44:06",
+      "last_scan": "2026-07-02 06:44:06",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "aabith7/QueryMind-AI-Powered-Web-Content-QA-Bot": {
+      "first_scan": "2026-07-02 06:44:06",
+      "last_scan": "2026-07-02 06:44:06",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "Hsing-Tzu/AI-Aided-Systems": {
+      "first_scan": "2026-07-02 06:44:06",
+      "last_scan": "2026-07-02 06:44:06",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "7DeepakS/QuerySphere": {
+      "first_scan": "2026-07-02 06:44:07",
+      "last_scan": "2026-07-02 06:44:07",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "alestanalves/skill-generator": {
+      "first_scan": "2026-07-02 06:44:07",
+      "last_scan": "2026-07-02 06:44:07",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "Hansimov/GPT-Paper": {
+      "first_scan": "2026-07-02 06:44:07",
+      "last_scan": "2026-07-02 06:44:07",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "rootflo/wavefront": {
+      "first_scan": "2026-07-02 06:44:08",
+      "last_scan": "2026-07-02 06:44:08",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "uiuc-kang-lab/REPRO-Bench": {
+      "first_scan": "2026-07-02 06:44:08",
+      "last_scan": "2026-07-02 06:44:08",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "Divina-s/DigiChamp": {
+      "first_scan": "2026-07-02 06:44:08",
+      "last_scan": "2026-07-02 06:44:08",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "gedion/langgraph_api-0.0.27": {
+      "first_scan": "2026-07-02 06:44:08",
+      "last_scan": "2026-07-02 06:44:08",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "farahaurellia/TA_Voyager": {
+      "first_scan": "2026-07-02 06:44:09",
+      "last_scan": "2026-07-02 06:44:09",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "AbanteAI/spice": {
+      "first_scan": "2026-07-02 06:44:09",
+      "last_scan": "2026-07-02 06:44:09",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "cameronmcnz/cameronmcnz": {
+      "first_scan": "2026-07-02 06:44:09",
+      "last_scan": "2026-07-02 06:44:09",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "nstoykov-git/kairoswarm-project": {
+      "first_scan": "2026-07-02 06:44:10",
+      "last_scan": "2026-07-02 06:44:10",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "spkal01/CalorieTracker": {
+      "first_scan": "2026-07-02 06:44:10",
+      "last_scan": "2026-07-02 06:44:10",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "abdxdev/Whatsapp_API": {
+      "first_scan": "2026-07-02 06:44:10",
+      "last_scan": "2026-07-02 06:44:10",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "Nael-Merzouki/RAG-document-QA": {
+      "first_scan": "2026-07-02 06:44:11",
+      "last_scan": "2026-07-02 06:44:11",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "shunxiangg/IOTDataScienceProject": {
+      "first_scan": "2026-07-02 06:44:11",
+      "last_scan": "2026-07-02 06:44:11",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "AvazbekNurmatov/talking_bookshelf": {
+      "first_scan": "2026-07-02 06:44:11",
+      "last_scan": "2026-07-02 06:44:11",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "neohope/NeoDemosChatGPT": {
+      "first_scan": "2026-07-02 06:44:11",
+      "last_scan": "2026-07-02 06:44:11",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "templetwo/PhaseGPT": {
+      "first_scan": "2026-07-02 06:44:12",
+      "last_scan": "2026-07-02 06:44:12",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "kilo5-eng/openclaw-10-codes": {
+      "first_scan": "2026-07-02 06:44:12",
+      "last_scan": "2026-07-02 06:44:12",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "gerardrbentley/streamlit-openai": {
+      "first_scan": "2026-07-02 06:44:12",
+      "last_scan": "2026-07-02 06:44:12",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "AI-secure/DecodingTrust-Agent": {
+      "first_scan": "2026-07-02 06:44:13",
+      "last_scan": "2026-07-02 06:44:13",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "hetailang/SqueezeAttention": {
+      "first_scan": "2026-07-02 06:44:13",
+      "last_scan": "2026-07-02 06:44:13",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "gilbutITbook/080444": {
+      "first_scan": "2026-07-02 06:44:13",
+      "last_scan": "2026-07-02 06:44:13",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "stoa-platform/stoa": {
+      "first_scan": "2026-07-02 06:44:13",
+      "last_scan": "2026-07-02 06:44:13",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "rajkumari20/DeepInsights_Project": {
+      "first_scan": "2026-07-02 06:44:14",
+      "last_scan": "2026-07-02 06:44:14",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "kumudlakara/MAD_Sherlock": {
+      "first_scan": "2026-07-02 06:44:14",
+      "last_scan": "2026-07-02 06:44:14",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "raniellyferreira/erpnext-semantic-finance": {
+      "first_scan": "2026-07-02 06:44:14",
+      "last_scan": "2026-07-02 06:44:14",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "samueltof/workforce-crews": {
+      "first_scan": "2026-07-02 06:44:15",
+      "last_scan": "2026-07-02 06:44:15",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "rand/ananke-sglang": {
+      "first_scan": "2026-07-02 06:44:15",
+      "last_scan": "2026-07-02 06:44:15",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "Sridattasai18/Ace-Interviewer": {
+      "first_scan": "2026-07-02 06:44:15",
+      "last_scan": "2026-07-02 06:44:15",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "Mollylil16/Backend_bot_ai": {
+      "first_scan": "2026-07-02 06:44:16",
+      "last_scan": "2026-07-02 06:44:16",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "shruti2307/Interview-QA": {
+      "first_scan": "2026-07-02 06:44:16",
+      "last_scan": "2026-07-02 06:44:16",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "outskill-git/GenAIEngineering-Cohort5": {
+      "first_scan": "2026-07-02 06:44:16",
+      "last_scan": "2026-07-02 06:44:16",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "Priyanshuosdbms/Heliverse_Assignment": {
+      "first_scan": "2026-07-02 06:44:17",
+      "last_scan": "2026-07-02 06:44:17",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "nshrhm/llm-literary-analysis": {
+      "first_scan": "2026-07-02 06:44:17",
+      "last_scan": "2026-07-02 06:44:17",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "brahdleh/enrichment_api": {
+      "first_scan": "2026-07-02 06:44:17",
+      "last_scan": "2026-07-02 06:44:17",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "ThomVanL/blog-2025-05-making-sense-of-ai": {
+      "first_scan": "2026-07-02 06:44:17",
+      "last_scan": "2026-07-02 06:44:17",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "JinghaoW/CV-automation": {
+      "first_scan": "2026-07-02 06:44:18",
+      "last_scan": "2026-07-02 06:44:18",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "anthony-chaudhary/fak": {
+      "first_scan": "2026-07-02 06:44:18",
+      "last_scan": "2026-07-02 06:44:18",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "BrainDriveAI/ModelMatch": {
+      "first_scan": "2026-07-02 06:44:18",
+      "last_scan": "2026-07-02 06:44:18",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
     }
   },
-  "total_scanned": 918,
-  "last_updated": "2026-07-01 07:05:00"
+  "total_scanned": 968,
+  "last_updated": "2026-07-02 06:44:18"
 }

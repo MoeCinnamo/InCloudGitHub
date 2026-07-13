@@ -7636,8 +7636,29 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects:failed",
       "scan_count": 1
+    },
+    "SeniorDesign14/SeniorDesignProject": {
+      "first_scan": "2026-07-13 05:24:01",
+      "last_scan": "2026-07-13 05:24:01",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "thamolwanpo/intellimatch-system": {
+      "first_scan": "2026-07-13 05:24:13",
+      "last_scan": "2026-07-13 05:24:13",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:failed",
+      "scan_count": 1
+    },
+    "unofaisal/agent-builder": {
+      "first_scan": "2026-07-13 05:31:35",
+      "last_scan": "2026-07-13 05:31:35",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 1091,
-  "last_updated": "2026-07-12 05:38:54"
+  "total_scanned": 1094,
+  "last_updated": "2026-07-13 05:31:35"
 }

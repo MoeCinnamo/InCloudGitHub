@@ -7657,8 +7657,358 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
+    },
+    "ninjaksahni/aify": {
+      "first_scan": "2026-07-23 04:59:24",
+      "last_scan": "2026-07-23 04:59:24",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "YosefCh/Digital-You": {
+      "first_scan": "2026-07-23 04:59:33",
+      "last_scan": "2026-07-23 04:59:33",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "futurafric-ia/JUDI-BACKEND": {
+      "first_scan": "2026-07-23 04:59:48",
+      "last_scan": "2026-07-23 04:59:48",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "PawanAK/v1": {
+      "first_scan": "2026-07-23 04:59:51",
+      "last_scan": "2026-07-23 04:59:51",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "hsaddx/chatbot_test": {
+      "first_scan": "2026-07-23 04:59:59",
+      "last_scan": "2026-07-23 04:59:59",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "Spirit135s/EnglishHelper": {
+      "first_scan": "2026-07-23 05:00:04",
+      "last_scan": "2026-07-23 05:00:04",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "Hanchenli/vllm-continuum": {
+      "first_scan": "2026-07-23 05:43:13",
+      "last_scan": "2026-07-23 05:43:13",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "justinz12xd/Arist-teles": {
+      "first_scan": "2026-07-23 05:43:13",
+      "last_scan": "2026-07-23 05:43:13",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "dazedanon/DazedMTLTool": {
+      "first_scan": "2026-07-23 05:43:13",
+      "last_scan": "2026-07-23 05:43:13",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "zabaika/codex-playground": {
+      "first_scan": "2026-07-23 05:43:14",
+      "last_scan": "2026-07-23 05:43:14",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "jpmanson/GrafitoDB": {
+      "first_scan": "2026-07-23 05:43:14",
+      "last_scan": "2026-07-23 05:43:14",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "Nalin-Sandaruwan/Rag-system-Tesing": {
+      "first_scan": "2026-07-23 05:43:14",
+      "last_scan": "2026-07-23 05:43:14",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "shahmeerdevdex/dramybot": {
+      "first_scan": "2026-07-23 05:43:15",
+      "last_scan": "2026-07-23 05:43:15",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "davedgd/RATER": {
+      "first_scan": "2026-07-23 05:43:15",
+      "last_scan": "2026-07-23 05:43:15",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "AvryG99/Medi-care-Backend": {
+      "first_scan": "2026-07-23 05:43:15",
+      "last_scan": "2026-07-23 05:43:15",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "melodygchoi/spi352": {
+      "first_scan": "2026-07-23 05:43:15",
+      "last_scan": "2026-07-23 05:43:15",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "AKA-Muhannad/MonkeyHouse-Waiter-Model": {
+      "first_scan": "2026-07-23 05:43:16",
+      "last_scan": "2026-07-23 05:43:16",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "thekaiff/Auto-Reply-AI-Bot": {
+      "first_scan": "2026-07-23 05:43:16",
+      "last_scan": "2026-07-23 05:43:16",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "AvatarMemory/UnifiedMem": {
+      "first_scan": "2026-07-23 05:43:16",
+      "last_scan": "2026-07-23 05:43:16",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "GeorgeGuo1215/Animal_detection": {
+      "first_scan": "2026-07-23 05:43:17",
+      "last_scan": "2026-07-23 05:43:17",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "Amir-Mann/VideoMDM_release": {
+      "first_scan": "2026-07-23 05:43:17",
+      "last_scan": "2026-07-23 05:43:17",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "yuanboP/Food-Pantry": {
+      "first_scan": "2026-07-23 05:43:17",
+      "last_scan": "2026-07-23 05:43:17",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "pazwusimple-netizen/douyin-mcp": {
+      "first_scan": "2026-07-23 05:43:18",
+      "last_scan": "2026-07-23 05:43:18",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "yashpandav/GenAi_Code": {
+      "first_scan": "2026-07-23 05:43:18",
+      "last_scan": "2026-07-23 05:43:18",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "Azmart/TransliterateApp": {
+      "first_scan": "2026-07-23 05:43:18",
+      "last_scan": "2026-07-23 05:43:18",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "qfeuilla/MiniLLMLib": {
+      "first_scan": "2026-07-23 05:43:18",
+      "last_scan": "2026-07-23 05:43:18",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "stonehj05/HopHack24": {
+      "first_scan": "2026-07-23 05:43:19",
+      "last_scan": "2026-07-23 05:43:19",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "NAVANEETH1808/AI-Powered-Symptom-Based-Disease-Prediction": {
+      "first_scan": "2026-07-23 05:43:19",
+      "last_scan": "2026-07-23 05:43:19",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "motojinc25/chatwalaau": {
+      "first_scan": "2026-07-23 05:43:19",
+      "last_scan": "2026-07-23 05:43:19",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "simonebittidev/AskMyCv": {
+      "first_scan": "2026-07-23 05:43:20",
+      "last_scan": "2026-07-23 05:43:20",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "YangLing0818/ContextDiff": {
+      "first_scan": "2026-07-23 05:43:20",
+      "last_scan": "2026-07-23 05:43:20",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "wangmingyu123456789/aso16": {
+      "first_scan": "2026-07-23 05:43:20",
+      "last_scan": "2026-07-23 05:43:20",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "Zhitao-He/ClinTutor-R1": {
+      "first_scan": "2026-07-23 05:43:20",
+      "last_scan": "2026-07-23 05:43:20",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "aastha2212/prompt2notes": {
+      "first_scan": "2026-07-23 05:43:21",
+      "last_scan": "2026-07-23 05:43:21",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "FondH/HouYi-Recurrence": {
+      "first_scan": "2026-07-23 05:43:21",
+      "last_scan": "2026-07-23 05:43:21",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "catman77/ATLAS": {
+      "first_scan": "2026-07-23 05:43:21",
+      "last_scan": "2026-07-23 05:43:21",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "sahil1330/Chatbots-using-Google-Generative-Ai": {
+      "first_scan": "2026-07-23 05:43:22",
+      "last_scan": "2026-07-23 05:43:22",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "herepete/Fidelity": {
+      "first_scan": "2026-07-23 05:43:22",
+      "last_scan": "2026-07-23 05:43:22",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "Germis2021/json-mode": {
+      "first_scan": "2026-07-23 05:43:22",
+      "last_scan": "2026-07-23 05:43:22",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "abhishek-a-qbit/cuspera-rag-platform": {
+      "first_scan": "2026-07-23 05:43:23",
+      "last_scan": "2026-07-23 05:43:23",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "Hoangcunut/Viethoapyvideotrans": {
+      "first_scan": "2026-07-23 05:43:23",
+      "last_scan": "2026-07-23 05:43:23",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "finddme/func_react_stream_light": {
+      "first_scan": "2026-07-23 05:43:23",
+      "last_scan": "2026-07-23 05:43:23",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "Sonali2310/Research-Rovers---AI-Research-Assistant": {
+      "first_scan": "2026-07-23 05:43:23",
+      "last_scan": "2026-07-23 05:43:23",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "Runpoint-Partners/ai-spend-report": {
+      "first_scan": "2026-07-23 05:43:24",
+      "last_scan": "2026-07-23 05:43:24",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "AnushaBhavani1/automated-ai-quiz-management-system": {
+      "first_scan": "2026-07-23 05:43:24",
+      "last_scan": "2026-07-23 05:43:24",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "sandboxcom/gludd": {
+      "first_scan": "2026-07-23 05:43:24",
+      "last_scan": "2026-07-23 05:43:24",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "w2flovnishpratham/Easy_debit_summary_web_app": {
+      "first_scan": "2026-07-23 05:43:25",
+      "last_scan": "2026-07-23 05:43:25",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "sovereign-codex/Crown-of-Tyme": {
+      "first_scan": "2026-07-23 05:43:25",
+      "last_scan": "2026-07-23 05:43:25",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "7thxsign/-Multi-Agent-News-Pipeline": {
+      "first_scan": "2026-07-23 05:43:25",
+      "last_scan": "2026-07-23 05:43:25",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "truera/trulens": {
+      "first_scan": "2026-07-23 05:43:25",
+      "last_scan": "2026-07-23 05:43:25",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
     }
   },
-  "total_scanned": 1094,
-  "last_updated": "2026-07-13 05:31:35"
+  "total_scanned": 1144,
+  "last_updated": "2026-07-23 05:43:25"
 }

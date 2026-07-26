@@ -8084,8 +8084,36 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects:no-access",
       "scan_count": 1
+    },
+    "TTEarth/maf": {
+      "first_scan": "2026-07-26 05:17:25",
+      "last_scan": "2026-07-26 05:17:25",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "Haris-Anjum/Product_Descriprion_Upwork": {
+      "first_scan": "2026-07-26 05:17:32",
+      "last_scan": "2026-07-26 05:17:32",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "FrontEnd-Liang/ai-frontend-interviewer": {
+      "first_scan": "2026-07-26 05:18:05",
+      "last_scan": "2026-07-26 05:18:05",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "dallas8000-ops/EastBridge-OPS": {
+      "first_scan": "2026-07-26 05:21:59",
+      "last_scan": "2026-07-26 05:21:59",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 1155,
-  "last_updated": "2026-07-25 05:22:19"
+  "total_scanned": 1159,
+  "last_updated": "2026-07-26 05:21:59"
 }

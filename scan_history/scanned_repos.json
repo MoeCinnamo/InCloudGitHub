@@ -8252,8 +8252,15 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
+    },
+    "neel-d9/agentcoder": {
+      "first_scan": "2026-07-30 04:42:06",
+      "last_scan": "2026-07-30 04:42:06",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 1179,
-  "last_updated": "2026-07-29 05:34:35"
+  "total_scanned": 1180,
+  "last_updated": "2026-07-30 04:42:06"
 }

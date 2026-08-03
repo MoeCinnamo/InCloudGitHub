@@ -8301,8 +8301,15 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects:no-access",
       "scan_count": 1
+    },
+    "farahaurellia/TA_LLM-Agent": {
+      "first_scan": "2026-08-03 06:04:32",
+      "last_scan": "2026-08-03 06:04:32",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 1186,
-  "last_updated": "2026-08-02 05:54:38"
+  "total_scanned": 1187,
+  "last_updated": "2026-08-03 06:04:32"
 }

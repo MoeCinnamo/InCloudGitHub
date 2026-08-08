@@ -8840,8 +8840,15 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects:no-access",
       "scan_count": 1
+    },
+    "MutugiD/GPT-3-Projects": {
+      "first_scan": "2026-08-08 03:41:49",
+      "last_scan": "2026-08-08 03:41:49",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 1263,
-  "last_updated": "2026-08-07 05:01:56"
+  "total_scanned": 1264,
+  "last_updated": "2026-08-08 03:41:49"
 }

@@ -8868,8 +8868,15 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
+    },
+    "nastechai/Updates": {
+      "first_scan": "2026-08-10 04:03:38",
+      "last_scan": "2026-08-10 04:03:38",
+      "findings_count": 6,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 1267,
-  "last_updated": "2026-08-09 03:39:08"
+  "total_scanned": 1268,
+  "last_updated": "2026-08-10 04:03:38"
 }

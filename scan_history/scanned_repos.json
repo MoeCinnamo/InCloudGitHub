@@ -8945,8 +8945,50 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
+    },
+    "NSG-LAB/xyz-ai-backend": {
+      "first_scan": "2026-08-18 02:57:35",
+      "last_scan": "2026-08-18 02:57:35",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "brzaa/YC_NLP": {
+      "first_scan": "2026-08-18 02:57:41",
+      "last_scan": "2026-08-18 02:57:41",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "3aruch/resume-optimizer-api": {
+      "first_scan": "2026-08-18 02:57:45",
+      "last_scan": "2026-08-18 02:57:45",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "rajinderjhol/PersonaVault_Private": {
+      "first_scan": "2026-08-18 03:02:32",
+      "last_scan": "2026-08-18 03:02:32",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "MuhammadMehdiRaza/Sahulat_Contribution": {
+      "first_scan": "2026-08-18 03:07:21",
+      "last_scan": "2026-08-18 03:07:21",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "pablovalle/VLA_UQ": {
+      "first_scan": "2026-08-18 03:07:22",
+      "last_scan": "2026-08-18 03:07:22",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
     }
   },
-  "total_scanned": 1278,
-  "last_updated": "2026-08-16 02:50:41"
+  "total_scanned": 1284,
+  "last_updated": "2026-08-18 03:07:22"
 }

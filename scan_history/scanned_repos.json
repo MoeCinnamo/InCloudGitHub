@@ -9099,8 +9099,22 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects:no-access",
       "scan_count": 1
+    },
+    "HITsz-TMG/KnowAct": {
+      "first_scan": "2026-08-22 02:59:15",
+      "last_scan": "2026-08-22 02:59:15",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "aliaftabsheikh/SMIT-batch04-weekdays-agentic-ai": {
+      "first_scan": "2026-08-22 03:01:10",
+      "last_scan": "2026-08-22 03:01:10",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 1300,
-  "last_updated": "2026-08-21 03:21:39"
+  "total_scanned": 1302,
+  "last_updated": "2026-08-22 03:01:10"
 }

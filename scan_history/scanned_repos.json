@@ -10289,8 +10289,22 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects:no-access",
       "scan_count": 1
+    },
+    "ThalesGroup/fred": {
+      "first_scan": "2026-09-02 07:07:30",
+      "last_scan": "2026-09-02 07:07:30",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "NVIDIA/TensorRT-LLM": {
+      "first_scan": "2026-09-02 07:07:30",
+      "last_scan": "2026-09-02 07:07:30",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
     }
   },
-  "total_scanned": 1470,
-  "last_updated": "2026-09-01 07:38:50"
+  "total_scanned": 1472,
+  "last_updated": "2026-09-02 07:07:30"
 }

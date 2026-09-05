@@ -10331,8 +10331,22 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
+    },
+    "Macowen14/robin2": {
+      "first_scan": "2026-09-05 06:45:14",
+      "last_scan": "2026-09-05 06:45:14",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "Leow4u/FORK-56": {
+      "first_scan": "2026-09-05 07:06:24",
+      "last_scan": "2026-09-05 07:06:24",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 1476,
-  "last_updated": "2026-09-04 06:40:07"
+  "total_scanned": 1478,
+  "last_updated": "2026-09-05 07:06:24"
 }

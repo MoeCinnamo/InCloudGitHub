@@ -10443,8 +10443,15 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
+    },
+    "Vcode7/transcriber-meetings": {
+      "first_scan": "2026-09-12 06:40:37",
+      "last_scan": "2026-09-12 06:40:37",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 1492,
-  "last_updated": "2026-09-11 06:45:32"
+  "total_scanned": 1493,
+  "last_updated": "2026-09-12 06:40:37"
 }

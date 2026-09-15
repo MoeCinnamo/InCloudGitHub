@@ -10450,8 +10450,15 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
+    },
+    "ianalloway/juryrig": {
+      "first_scan": "2026-09-15 06:48:47",
+      "last_scan": "2026-09-15 06:48:47",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 1493,
-  "last_updated": "2026-09-12 06:40:37"
+  "total_scanned": 1494,
+  "last_updated": "2026-09-15 06:48:47"
 }

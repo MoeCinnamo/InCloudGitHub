@@ -10471,8 +10471,15 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects:no-access",
       "scan_count": 1
+    },
+    "anirudhasi/voicesum": {
+      "first_scan": "2026-09-18 06:51:17",
+      "last_scan": "2026-09-18 06:51:17",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 1496,
-  "last_updated": "2026-09-17 07:19:26"
+  "total_scanned": 1497,
+  "last_updated": "2026-09-18 06:51:17"
 }

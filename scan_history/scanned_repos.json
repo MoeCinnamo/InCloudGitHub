@@ -10513,8 +10513,22 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
+    },
+    "BasedHardware/omi": {
+      "first_scan": "2026-09-24 07:32:31",
+      "last_scan": "2026-09-24 07:32:31",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "trade-tariff/ai-search-evaluation-suite": {
+      "first_scan": "2026-09-24 07:32:32",
+      "last_scan": "2026-09-24 07:32:32",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
     }
   },
-  "total_scanned": 1502,
-  "last_updated": "2026-09-22 07:06:23"
+  "total_scanned": 1504,
+  "last_updated": "2026-09-24 07:32:32"
 }

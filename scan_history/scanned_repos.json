@@ -10625,8 +10625,15 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects:no-access",
       "scan_count": 1
+    },
+    "pandu-21/Google_Agent": {
+      "first_scan": "2026-10-05 07:45:00",
+      "last_scan": "2026-10-05 07:45:00",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 1518,
-  "last_updated": "2026-10-02 08:29:07"
+  "total_scanned": 1519,
+  "last_updated": "2026-10-05 07:45:00"
 }

@@ -10779,8 +10779,29 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
+    },
+    "phat79186/AI-Workforce-OS-AI-Agents-Orchestrator-": {
+      "first_scan": "2026-10-24 07:04:48",
+      "last_scan": "2026-10-24 07:04:48",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "nikkopg/monai": {
+      "first_scan": "2026-10-24 07:04:49",
+      "last_scan": "2026-10-24 07:04:49",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "melihcatal/vibench": {
+      "first_scan": "2026-10-24 07:04:49",
+      "last_scan": "2026-10-24 07:04:49",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
     }
   },
-  "total_scanned": 1540,
-  "last_updated": "2026-10-23 07:09:27"
+  "total_scanned": 1543,
+  "last_updated": "2026-10-24 07:04:49"
 }

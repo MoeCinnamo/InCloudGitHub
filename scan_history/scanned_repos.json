@@ -11108,8 +11108,50 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects:no-access",
       "scan_count": 1
+    },
+    "confident-ai/deepeval": {
+      "first_scan": "2026-11-16 09:22:25",
+      "last_scan": "2026-11-16 09:22:25",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "Freginn/Samvaad-IITD": {
+      "first_scan": "2026-11-16 09:22:26",
+      "last_scan": "2026-11-16 09:22:26",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "VISHAL9360/DeepEval": {
+      "first_scan": "2026-11-16 09:22:26",
+      "last_scan": "2026-11-16 09:22:26",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "code-with-Harshchaudhary/Sentinel_Deepeval": {
+      "first_scan": "2026-11-16 09:22:26",
+      "last_scan": "2026-11-16 09:22:26",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "ai-dynamo/aisim": {
+      "first_scan": "2026-11-16 09:22:27",
+      "last_scan": "2026-11-16 09:22:27",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "thomas-hiddenpeak/qwen4-thor": {
+      "first_scan": "2026-11-16 09:22:27",
+      "last_scan": "2026-11-16 09:22:27",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
     }
   },
-  "total_scanned": 1587,
-  "last_updated": "2026-11-14 09:01:29"
+  "total_scanned": 1593,
+  "last_updated": "2026-11-16 09:22:27"
 }

@@ -11164,8 +11164,22 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
+    },
+    "hanlianlu/DlightRAG": {
+      "first_scan": "2026-11-20 09:57:37",
+      "last_scan": "2026-11-20 09:57:37",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "CorvinLabs/CorvinOS": {
+      "first_scan": "2026-11-20 09:57:37",
+      "last_scan": "2026-11-20 09:57:37",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
     }
   },
-  "total_scanned": 1595,
-  "last_updated": "2026-11-18 10:08:36"
+  "total_scanned": 1597,
+  "last_updated": "2026-11-20 09:57:37"
 }
